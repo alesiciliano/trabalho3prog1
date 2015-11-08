@@ -19,8 +19,6 @@ int main()
                         {0,0,0,1,0}};
                      
     
-    int bomba=1;
-    int agua=0;
     int pontos=0;
     char continuar;
     printf ("Vamos jogar Batalha Naval ?\n");
